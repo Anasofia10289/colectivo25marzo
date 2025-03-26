@@ -2,4 +2,5 @@
 repo colectivo martes noche
 Pablo Andrés Mora Durango
 Valeria Salazar Hernandez 
+Ana Sofia Acevedo Quiroz 
 Carlos Andres Arbelaez
